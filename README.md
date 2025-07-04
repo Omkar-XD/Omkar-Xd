@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Omkar-XD/Omkar-XD/main/assets/banner.png" alt="Omkar Chavan Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Omkar Chavan</h1>
 <h3 align="center">Python Developer | AI & Machine Learning Enthusiast | Future Data Scientist</h3>
